@@ -77,6 +77,10 @@ h3 {
   opacity: 0.89;
 }
 
+.card-text {
+  color: black;
+}
+
 .btn-primary {
   -webkit-animation: select 3s linear infinite;
           animation: select 3s linear infinite;
