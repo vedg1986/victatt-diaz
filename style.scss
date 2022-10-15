@@ -72,12 +72,15 @@ h3 {
 }
 .card {
   margin: auto;
-  opacity: 0.89;
-  padding-bottom: 30px;
+  padding: 8px 12px 8px 8px;
+  background: rgb(58, 56, 56);
+  color: $color;
 }
-.card-text {
-  color: black;
+.card {
+  margin-bottom: 10px;
 }
+
+
 .btn-primary {
   animation: select 3s linear infinite;
 }
